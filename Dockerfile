@@ -1,1 +1,1 @@
-FROM ghcr.io/eoovve/nodejs-argo:latest
+FROM ghcr.io/eoovve/nodejs:main
