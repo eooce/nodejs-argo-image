@@ -1,1 +1,1 @@
-FROM ghcr.io/eoovve/nodejs:main
+FROM ghcr.io/eooce/nodejs:main
